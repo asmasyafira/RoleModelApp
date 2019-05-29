@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">RoleModelApp</string>
+    <string name="abubakar">
+        Nama : Abu Bakar As Siddiq\n
+Lahir : Mekkah, Arab Saudi, 27 Oktober 573 M\n
+Wafat : Madinah, Arab Saudi, 23 Agustus 634 M\n
+Orang Tua : Uthman Abu Quhafa (ayah), Salma Umm-ul-Khair (ibu)\n
+Istri : Habibah bint Kharijah, Asma binti Umays, Ummi Ruman, Qutaylah bint Abd-al-Uzza\n
+Anak : Aisyah, Muhammad bin Abu Bakar, Asma’ binti Abu Bakar, Abdullah ibn Abi Bakr, Abdurrahman bin Abi Bakar, Umm Kulthum.\n
+        Abu Bakar As Siddiq lahir bersamaan dengan tahun kelahiran Nabi Muhammad Saw. pada 572 Masehi di Mekah, berasal dari keturunan Bani Taim, suku Quraisy. Nama aslinya adalah Abdullah ibni Abi Quhaafah. Ayahnya Abu Bakar bernama Uthman Abu Quhafa dan ibunya bernama Salma Umm-ul-Khair.
+
+Berdasarkan beberapa sejarawan Islam, Abu Bakar adalah seorang pedagang, hakim dengan kedudukan tinggi, seorang yang terpelajar serta dipercayai sebagai orang yang bisa menafsirkan mimpi.
+
+</string>
+    <string name="umar">Nama: ‘Umar bin al-KhattabLahir: 583 M Mekkah, Jazirah Arab\n
+Wafat: 25 Dzulhijjah 23 Hijriyah (3 November 644 Masehi)\n
+Makam: Sebelah kiri makam Nabi Muhammad SAW di Masjid Nabawi, Madinah\n
+Gelar: al-Faruq (pemisah antara yang benar dan batil), Amirul Mu`miniin (pemimpin orang-orang beriman)\n
+Pendahulu: Abu Bakar Ash-Shidiq\n
+Pengganti: Utsman bin Affan\n
+    Umar bin al-Khattab lahir di Mekkah dari Bani Adi yang masih satu rumpun dari suku Quraisy dengan nama lengkap Umar bin al-Khattab bin abdul Uzza. Keluarga Umar tergolong keluarga kelas menengah, ia bisa membaca dan menulis yang pada masa itu merupakan sesuatu yang sangat jarang terjadi.Umar bin Khattab dikenal memiliki fisik yang kuat, bahkan ia menjadi juara gulat di Mekkah. Umar tumbuh menjadi pemuda yang disegani dan ditakuti pada masa itu. Beliau memiliki watak yang keras hingga dijuluki sebagai “Singa Padang Pasir”. Beliau termasuk pemuda yang amat keras dalam membela agama tradisional Arab yang saat itu masih menyembah berhala serta menjaga adat istiadat mereka. 
+
+</string>
+    <string name="ali">
+        Nama : Ali bin Abi Thalib\n
+Lahir : Mekkah, Arab Saudi, 15 September 601 M\n
+Wafat : Kufah, Irak, 29 Januari 661 M\n
+Orang Tua : Abu Thalib (ayah), Fatimah binti Asad (ibu)\n
+Saudara : Ja’far bin Abi Thalib, Aqil bin Abi Thalib, Thalib bin Abu Thalib, Tulayq ibn Abī Ṭālib, Fakhitah bint Abi Talib, Jumanah bint Abi Talib, Rayta bint Abi Talib\n
+Istri : Umamah binti Zainab, Fatimah az-Zahra, Fatimah binti Hizam, Asma binti Umays\n
+        Ali bin Abi Thalib dilahirkan di Mekkah, daerah Hejaz, Jazirah Arab, pada tanggal 13 Rajab. Menurut sejarawan, Ali dilahirkan 10 tahun sebelum dimulainya kenabian Muhammad, sekitar tahun 601 Masehi.
+
+Beliau bernama asli Haydar bin Abu Thalib. Namun Rasullullah Saw. tidak menyukainya dan memanggilnya Ali yang berarti memiliki derajat yang tinggi di sisi Allah. Ali mempunyai ayah bernama Abu Thalib yang juga merupakan paman dari Nabi Muhammad SAW. Ibu Ali Bin Abi thalib bernama Fatimah binti Asad.
+    </string>
+    <string name="utsman">
+        Nama : Utsman bin Affan\n
+Lahir : Ta’if, Arab Saudi, 574 M\n
+Wafat : Madinah, Arab Saudi, 17 Juni 656 M\n
+Orang Tua : Affan bin Abi al-Ash (ayah), Arwa bint Kurayz (Ibu)\n
+Istri : Fatima binti Al-Walid, Nailah binti al-Farafishah, Ummu Kultsum binti Muhammad, Ruqayyah binti Muhammad, Umm Al-Banin binti Unaib, Umm Amr binti Jundub, Fakhtah binti Ghazwan\n
+Anak : Aban, Abdullah, Amr, Saeed ibn Uthman, Ayesha , Umm Uthman, Al-Walid, Aurvi, Umar, Umm Aban Al-Sagri, Maryam, Khalid, Umm Amr, Umm Aban Al-Kabri, Umm Khalid, bdulmalik\n
+        Utsman bin Affan lahir pada 574 Masehi dari golongan Bani Umayyah. Ayah Utsman bin Affan bernama Affan bin Abi al-Ash dan ibunya bernama Arwa bint Kurayz.
+    </string>
+</resources>
